@@ -1,4 +1,4 @@
-This folder contains all notebooks produced during this project.
+This folder contains all notebooks/scripts produced during this project.
 List of notebooks (see short descriptions below):  
 01_EDA  
 02_mapping_dict  
