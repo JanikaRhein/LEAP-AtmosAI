@@ -1,7 +1,7 @@
 This folder contains all notebooks/scripts produced during this project.
 List of notebooks (see short descriptions below):  
 01_EDA  
-02_mapping_dict  
-03_model_and_training  
-04_evaluation  
-05_testing  
+mapping_dict.py  
+02_model_and_training  
+03_evaluation  
+04_testing  
