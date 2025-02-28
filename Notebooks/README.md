@@ -7,4 +7,4 @@ List of notebooks:
 mapping_dict.py
 LEAP_working_notebook.ipynb
 
-Note, the notebooks 01-04 contain all the important code for the different steps, however most ov the actual training, evaluating and test was done in the LEAP_working_notebook.ipynb and on notebooks still lying on the university cluster. For an easier overview I added notebooks 01-04. 
+Note, the notebooks 01-04 contain all the important code for the different steps, however most of the actual training, evaluating and test was done in the LEAP_working_notebook.ipynb and on notebooks still lying on the university cluster. For an easier overview I added notebooks 01-04. 
