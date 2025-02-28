@@ -1,5 +1,5 @@
 This folder contains all notebooks/scripts produced during this project.
-List of notebooks (see short descriptions below):  
+List of notebooks:  
 01_EDA.ipynb   
 02_model_and_training.ipynb   
 03_evaluation.ipynb    
