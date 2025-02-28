@@ -43,3 +43,4 @@ enabling more accurate and resource-efficient climate simulations. AI-based appr
 increasingly being used in climate research – from atmospheric physics to ocean modeling.  
 
 Link to the repository: https://github.com/JanikaRhein/LEAP-AtmosAI
+.end
