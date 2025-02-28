@@ -2,7 +2,9 @@
 
 **Project Summary:**
 "A Data-Driven Parameterization of Atmospheric Small-Scale Processes"  
+
 by Janika Rhein  
+
 Climate models are essential tools for predicting the effects of human-induced climate change. They
 need to provide stable simulations over decades to centuries, which makes achieving very high
 spatial resolution computationally impossible. Therefore, they approximate small-scale processes
@@ -23,13 +25,13 @@ input variables from the coarse model and 14 target variables from the fine-scal
 several vertical profiles with 60 altitude levels.  
 To determine the relevant input variables for each target variable, I combined climate physics
 expertise with correlation analyses. The target variables can be grouped into five categories:
-\begin{itemize}
-\item Temperature (warming trend),
-\item Clouds (moisture trend, changes in the amount of liquid cloud droplets and ice crystals),
-\item Wind (accelerations in eastward and northward directions),
-\item Radiation (shortwave radiation with five components and longwave outgoing radiation),
-\item Precipitation (rain and snow rate).
-\end{itemize}  
+
+- Temperature (warming trend),  
+- Clouds (moisture trend, changes in the amount of liquid cloud droplets and ice crystals),  
+- Wind (accelerations in eastward and northward directions),  
+- Radiation (shortwave radiation with five components and longwave outgoing radiation),  
+- Precipitation (rain and snow rate).  
+ 
 Based on this, I trained seven separate models – initially, a Multi-Layer Perceptron (MLP) for each.
 Initial results show that scalar target variables (radiation and precipitation) can already be well
 predicted with this simple model. However, more complex architectures are required for the
