@@ -42,5 +42,5 @@ physically grounded but computationally expensive processes can be approximated 
 enabling more accurate and resource-efficient climate simulations. AI-based approaches are
 increasingly being used in climate research – from atmospheric physics to ocean modeling.  
 
-Link to the repository: https://github.com/JanikaRhein/LEAP-AtmosAI
-.end
+Link to the repository: https://github.com/JanikaRhein/LEAP-AtmosAI  
+Repository contains notebooks, presentation and the results.
