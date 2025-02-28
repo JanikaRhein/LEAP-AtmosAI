@@ -40,4 +40,6 @@ structure of the vertical profiles more effectively.
 This project demonstrates the potential of AI in climate modeling: By using data-driven methods,
 physically grounded but computationally expensive processes can be approximated more efficiently,
 enabling more accurate and resource-efficient climate simulations. AI-based approaches are
-increasingly being used in climate research – from atmospheric physics to ocean modeling.
+increasingly being used in climate research – from atmospheric physics to ocean modeling.  
+
+Link to the repository: https://github.com/JanikaRhein/LEAP-AtmosAI
