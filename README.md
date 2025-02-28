@@ -1,6 +1,6 @@
 # LEAP-AtmosAI
 
-**Project Summary:**
+**Project Summary:**  
 "A Data-Driven Parameterization of Atmospheric Small-Scale Processes"  
 
 by Janika Rhein  
